@@ -5,7 +5,7 @@ Who am I? Please tell me
 ------------------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at ...?
+* ✉️  You can contact me at ...
 * 🧠  I'm learning Something new
 
 ### Skills
